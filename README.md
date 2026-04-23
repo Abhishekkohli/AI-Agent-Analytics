@@ -1,4 +1,4 @@
-# AI Agent Analytics Assistant
+# AI-Developer-Workflow-Copilot
 
 An LLM-powered analytics agent that converts natural language business queries into SQL, executes them against a structured dataset, and returns formatted results. Uses embedding-based retrieval (FAISS + sentence-transformers) to supply relevant schema context and few-shot query history to the LLM, improving SQL generation accuracy.
 
